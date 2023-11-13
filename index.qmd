@@ -137,32 +137,32 @@ always_allow_html: true
 ## Introduction
 
 People who use opioids from the unregulated market are increasingly
-exposed to related social and health harms [@milaneyscoping2022;
-@cheethamimpact2022], including fatal and non-fatal opioid-involved
-overdose [@santo2021; @åstrøm2023], incarceration [@gisev2019;
-@fazel2017], stigma [@treloar2022] and structural violence
-[@lancaster2023]. Use via injection is associated is several health
-risks [@brener2022; @colledge2019; @degenhardt2019] such as increased
-risk of HIV and HCV infection [@Grebely2022; @Martinello2017a;
-@hajarizadeh], skin and soft tissue infection [@wheeler2022] and
-endocarditis [@wurcel2016; @see2020]. Opioid agonist therapy (OAT) with
-methadone and buprenorphine is effective in reducing associated harms
-[@degenhardt2023; @Nielsen2016; @Nielsen2022; @Jones2022], with
-retention associated with improved social and health outcomes , and
-reduced quality-adjusted life-years lost compared to no treatment or
-non-pharmacological interventions [@martin2022]. Despite the efficacy of
-these medications [@degenhardt2023], treatment acceptability,
-satisfaction, and retention is sub-optimal, globally. Individual
-preferences for these medications play a pivotal role in determining
-positive treatment outcomes [@joosten2008]. With similar outcomes for a
-range of measures among particular subgroups between medications
-[@degenhardt2023], the choice between methadone and buprenorphine should
-be informed by consultation with each person after consideration of
-preferences and the relative risks and benefits of each medication to
-the indivudal. While a number of studies explore the role of treatment
-preferences generally [@uebelacker2016; @kenney2018], relatively fewer
-number of studies focus specifically on factors associated with
-preferences for medication types and formulations.
+exposed to related social and health harms [@milaney2022;
+@cheetham2022], including fatal and non-fatal opioid-involved overdose
+[@santo2021; @åstrøm2023], incarceration [@gisev2019; @fazel2017],
+stigma [@treloar2022] and structural violence [@lancaster2023]. Use via
+injection is associated is several health risks [@brener2022;
+@colledge2019; @degenhardt2019] such as increased risk of HIV and HCV
+infection [@Grebely2022; @Martinello2017a; @hajarizadeh], skin and soft
+tissue infection [@wheeler2022] and endocarditis [@wurcel2016;
+@see2020]. Opioid agonist therapy (OAT) with methadone and buprenorphine
+is effective in reducing associated harms [@degenhardt2023;
+@Nielsen2016; @Nielsen2022; @Jones2022], with retention associated with
+improved social and health outcomes , and reduced quality-adjusted
+life-years lost compared to no treatment or non-pharmacological
+interventions [@martin2022]. Despite the efficacy of these medications
+[@degenhardt2023], treatment acceptability, satisfaction, and retention
+is sub-optimal, globally. Individual preferences for these medications
+play a pivotal role in determining positive treatment outcomes
+[@joosten2008]. With similar outcomes for a range of measures among
+particular subgroups between medications [@degenhardt2023], the choice
+between methadone and buprenorphine should be informed by consultation
+with each person after consideration of preferences and the relative
+risks and benefits of each medication to the indivudal. While a number
+of studies explore the role of treatment preferences generally
+[@uebelacker2016; @kenney2018], relatively fewer number of studies focus
+specifically on factors associated with preferences for medication types
+and formulations.
 
 Preferences around OAT and individual choice are identified as key to
 improving treatment outcomes and reducing potential harms associated
@@ -1124,7 +1124,6 @@ pts_subset_stratified.kable
 pts_subset_stratified.kable
 ```
 
-
 ### Table S2
 
 ```{r}
@@ -1631,5 +1630,3 @@ table_merged_oat.kable <- table_merged_oat %>%
 ```{r echo = FALSE, include = TRUE}
 table_merged_oat.kable
 ```
-
-
